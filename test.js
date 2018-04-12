@@ -1,1 +1,1 @@
-{enter: 10}
+{enter: 'yes'}
